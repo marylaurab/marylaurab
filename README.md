@@ -2,6 +2,7 @@
 The available repositories have been created from my collective and individual development. Testing the technologies already acquired, and putting the new ones into practice🌱.
 
 🎯 Javascript | Python | Typescript | PHP 
+
 +20 technologies
 Over +5 experience in solving problems in a creative way
 
