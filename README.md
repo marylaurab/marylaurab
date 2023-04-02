@@ -4,6 +4,7 @@ The available repositories have been created from my collective and individual d
 🎯 Javascript | Python | Typescript | PHP 
 
 +20 technologies
+
 Over +5 experience in solving problems in a creative way
 
 🔜 MongoDB
