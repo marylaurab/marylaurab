@@ -1,13 +1,13 @@
 # Creating reality from codes. Uniting analytical thinking and creativity to empower the IT world⚡ Full Stack Developer
 The available repositories have been created from my collective and individual development. Testing the technologies already acquired, and putting the new ones into practice🌱.
 
-🎯 Javascript | Python | Typescript | PHP 
+🎯 Javascript 
 
-Over +20 technologies, advanced handling 
+Over +20 technologies, advanced handling.
 
 Over +5 years of experience in solving problems in a creative way
 
-🔜 MongoDB
+
   
 
 ### Interested in challenging projects that require ingenuity and technical skills!
