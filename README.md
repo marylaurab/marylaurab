@@ -16,4 +16,4 @@ Over +5 years of experience in solving problems in a creative way
 ## Contact: 
 LinkedIn: https://www.linkedin.com/in/mary-laura-betancourt-sequera-518ba9207/  
 
-Whatsapp: +54 9 11 5758 7479
+Whatsapp: +54 9 11 3415 2357
